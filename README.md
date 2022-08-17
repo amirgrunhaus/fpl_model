@@ -16,6 +16,6 @@ In the [data directory](https://github.com/amirgrunhaus/fpl_model/tree/main/Data
 - **master_team_list.csv & teams.csv**: team names and IDs (global and for each season).
 - **remaining_season.csv**: dataset with each player's remaining fixtures in the current season.
 
-**There's some extra data in the directory, however, the data specified above is the most relevant and what I use in the notebooks.*
+**There's some extra data in the directory, however, the data specified above is the most relevant and what I use in the notebooks above.*
 
 I'm currently working in new notebooks and will be updating the repository weekly.
