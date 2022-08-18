@@ -12,7 +12,7 @@ In the [data directory](https://github.com/amirgrunhaus/fpl_model/tree/main/Data
 - **Player data for each gameweek since the 2016-17 PL season** - one folder with various csv files for each season (credits to [vaastav](https://github.com/vaastav/Fantasy-Premier-League) for scraping data from the FPL site every week).
 - **training_data.csv**: original training data set containing data since the 2016-17 PL season (credits to [solpaul](https://github.com/solpaul/fpl-prediction)).
 - **training_data_updated.csv**: updated training data with player data for each new 2022-23 PL season gameweek.
-- **cleaned_merged_season.csv**: player data for each gameweek since the 2016-16 PL season merged (all individual folders merged).
+- **cleaned_merged_season.csv**: player data for each gameweek since the 2016-17 PL season merged (all individual folders merged).
 - **master_team_list.csv & teams.csv**: team names and IDs (global and for each season).
 - **remaining_season.csv**: dataset with each player's remaining fixtures in the current season.
 
