@@ -1,0 +1,16 @@
+player,team,opponent_team,position,predicted_total_points,cost
+Nick Pope,Newcastle United,Manchester City,GK,5,5.0
+Lukasz Fabianski,West Ham United,Brighton and Hove Albion,GK,6,5.0
+Reece James,Chelsea,Leeds,DEF,6,6.0
+Trent Alexander-Arnold,Liverpool,Manchester United,DEF,9,7.5
+Ben Mee,Brentford,Fulham,DEF,5,4.5
+Kyle Walker-Peters,Southampton,Leicester City,DEF,6,4.5
+Aaron Cresswell,West Ham United,Brighton and Hove Albion,DEF,7,5.0
+Rodrigo Moreno,Leeds,Chelsea,MID,10,6.1
+Kevin De Bruyne,Manchester City,Newcastle United,MID,11,12.1
+Phil Foden,Manchester City,Newcastle United,MID,9,8.0
+Granit Xhaka,Arsenal,Bournemouth,MID,7,5.0
+Gabriel Martinelli Silva,Arsenal,Bournemouth,MID,8,6.2
+Salomón Rondón,Everton,Nottingham Forest,FWD,5,5.0
+Harry Kane,Tottenham Hotspur,Wolverhampton Wanderers,FWD,7,11.4
+Gabriel Fernando de Jesus,Arsenal,Bournemouth,FWD,11,8.0

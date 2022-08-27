@@ -1,0 +1,16 @@
+player,team,opponent_team,position,predicted_total_points,cost
+David Raya Martin,Brentford,Fulham,GK,7,4.5
+Dean Henderson,Nottingham Forest,Everton,GK,7,4.5
+Kevin Mbabu,Fulham,Brentford,DEF,5,4.5
+Ivan Perišić,Tottenham,Wolves,DEF,7,5.5
+Joël Veltman,Brighton,West Ham,DEF,6,4.5
+William Saliba,Arsenal,Bournemouth,DEF,8,4.6
+Kieran Trippier,Newcastle Utd,Manchester City,DEF,7,5.1
+Wilfried Zaha,Crystal Palace,Aston Villa,MID,13,7.1
+Rodrigo Moreno,Leeds,Chelsea,MID,9,6.3
+Bernardo Veiga de Carvalho e Silva,Manchester City,Newcastle Utd,MID,9,6.8
+Martin Ødegaard,Arsenal,Bournemouth,MID,12,6.4
+Jack Harrison,Leeds,Chelsea,MID,12,6.0
+Aleksandar Mitrović,Fulham,Brentford,FWD,9,6.6
+Harry Kane,Tottenham,Wolves,FWD,9,11.4
+Che Adams,Southampton,Leicester City,FWD,10,6.4
