@@ -20,6 +20,7 @@ In the [data directory](https://github.com/amirgrunhaus/fpl_model/tree/main/Data
 - **Files with optimized draft picks (from draft_picks.ipynb), ideal teams and predictions (from pl_predictions.ipynb)**
 
 **There's some extra data in the directory, however, the data specified above is the most relevant and what I use in the notebooks.*
+
 **The ideal_teams directory contains png files of the ideal teams from fantasy_ideal_team.ipynb.*
 
 I'm currently working in new notebooks and will be updating the repository weekly.
