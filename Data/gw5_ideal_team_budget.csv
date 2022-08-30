@@ -1,0 +1,16 @@
+player,team,opponent_team,position,predicted_total_points,cost
+Jordan Pickford,Everton,Leeds,GK,3,4.5
+Robert Sánchez,Brighton,Fulham,GK,3,4.6
+Aaron Cresswell,West Ham,Tottenham,DEF,3,4.9
+Neco Williams,Nottingham Forest,Manchester City,DEF,3,4.1
+Ivan Perišić,Tottenham,West Ham,DEF,4,5.5
+Reece James,Chelsea,Southampton,DEF,4,6.1
+Pervis Estupiñán,Brighton,Fulham,DEF,4,4.5
+Nathaniel Chalobah,Fulham,Brighton,MID,5,4.5
+Anthony Elanga,Manchester Utd,Leicester City,MID,5,4.9
+Anthony Gordon,Everton,Leeds,MID,5,5.5
+Vitaly Janelt,Brentford,Crystal Palace,MID,5,5.5
+Mohamed Salah,Liverpool,Newcastle Utd,MID,6,13.0
+Harry Kane,Tottenham,West Ham,FWD,7,11.4
+Roberto Firmino,Liverpool,Newcastle Utd,FWD,8,8.0
+Erling Haaland,Manchester City,Nottingham Forest,FWD,8,11.8
