@@ -1,0 +1,18 @@
+player,team,opponent_team,position,predicted_total_points,cost
+Nick Pope,Newcastle Utd,Crystal Palace,GK,3,5.0
+Jordan Pickford,Everton,Liverpool,GK,3,4.5
+Gabriel dos Santos Magalhães,Arsenal,Manchester Utd,DEF,4,5.1
+Romain Perraud,Southampton,Wolves,DEF,3,4.5
+Nathan Patterson,Everton,Liverpool,DEF,2,4.0
+Trent Alexander-Arnold,Liverpool,Everton,DEF,3,7.5
+Ivan Perišić,Tottenham,Fulham,DEF,3,5.6
+Rico Henry,Brentford,Leeds,DEF,3,4.5
+Elliot Anderson,Newcastle Utd,Crystal Palace,MID,4,4.5
+Martin Ødegaard,Arsenal,Manchester Utd,MID,4,6.6
+Jack Harrison,Leeds,Brentford,MID,5,6.1
+Mohamed Elyounoussi,Southampton,Wolves,MID,4,5.4
+Nathaniel Chalobah,Fulham,Tottenham,MID,4,4.5
+Wilfried Zaha,Crystal Palace,Newcastle Utd,MID,7,7.2
+Erling Haaland,Manchester City,Aston Villa,FWD,8,11.9
+Julián Álvarez,Manchester City,Aston Villa,FWD,6,6.2
+Raúl Jiménez,Wolves,Southampton,FWD,6,6.9

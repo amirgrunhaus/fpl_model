@@ -1,0 +1,16 @@
+player,gw,position,team,opponent_team,season,predicted_total_points,cost
+Nick Pope,6,GK,Newcastle Utd,Crystal Palace,2223,3,5.0
+Jordan Pickford,6,GK,Everton,Liverpool,2223,3,4.5
+Gabriel dos Santos Magalhães,6,DEF,Arsenal,Manchester Utd,2223,4,5.1
+Romain Perraud,6,DEF,Southampton,Wolves,2223,3,4.5
+Rico Henry,6,DEF,Brentford,Leeds,2223,3,4.5
+Trent Alexander-Arnold,6,DEF,Liverpool,Everton,2223,3,7.5
+Ivan Perišić,6,DEF,Tottenham,Fulham,2223,3,5.6
+Wilfried Zaha,6,MID,Crystal Palace,Newcastle Utd,2223,7,7.2
+Jack Harrison,6,MID,Leeds,Brentford,2223,5,6.1
+Raheem Sterling,6,MID,Chelsea,West Ham,2223,5,10.0
+Mohamed Salah,6,MID,Liverpool,Everton,2223,5,13.0
+Elliot Anderson,6,MID,Newcastle Utd,Crystal Palace,2223,4,4.5
+Erling Haaland,6,FWD,Manchester City,Aston Villa,2223,8,11.9
+Roberto Firmino,6,FWD,Liverpool,Everton,2223,6,8.0
+Julián Álvarez,6,FWD,Manchester City,Aston Villa,2223,6,6.2
