@@ -1,0 +1,16 @@
+player,team,opponent_team,position,predicted_total_points,cost
+Alisson Ramses Becker,Liverpool,Wolves,GK,3,5.5
+Nick Pope,Newcastle Utd,West Ham,GK,4,5.1
+Luke Ayling,Leeds,Nottingham Forest,DEF,3,4.5
+Virgil van Dijk,Liverpool,Wolves,DEF,4,6.5
+Sven Botman,Newcastle Utd,West Ham,DEF,4,4.4
+Ryan Sessegnon,Tottenham,Manchester City,DEF,5,4.5
+Reece James,Chelsea,Fulham,DEF,3,6.0
+Elliot Anderson,Newcastle Utd,West Ham,MID,5,4.5
+Son Heung-min,Tottenham,Manchester City,MID,5,11.7
+Solly March,Brighton,Bournemouth,MID,5,5.0
+Alexis Mac Allister,Brighton,Bournemouth,MID,5,5.6
+Keane Lewis-Potter,Brentford,Southampton,MID,5,5.3
+Harry Kane,Tottenham,Manchester City,FWD,6,11.4
+Danny Welbeck,Brighton,Bournemouth,FWD,6,6.5
+Erling Haaland,Manchester City,Tottenham,FWD,7,12.0
