@@ -1,4 +1,10 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Tottenham,Newcastle United,1,2,2022-10-23,18329,2022,559166,0,0,0,0,0,0.019579654559493065,0.019579654559493065
+0,0,0,90,GK,Newcastle United,Everton,1,0,2022-10-19,18319,2022,557549,0,0,0,0,0,0.26010194420814514,0.26010194420814514
+0,0,0,90,GK,Manchester United,Newcastle United,0,0,2022-10-16,18308,2022,556589,0,0,0,0,0,0,0
+0,0,0,90,GK,Newcastle United,Brentford,5,1,2022-10-08,18299,2022,554086,0,0,0,0,0,0.029651600867509842,0.029651600867509842
+0,0,0,90,GK,Fulham,Newcastle United,1,4,2022-10-01,18285,2022,552375,0,0,0,0,0,0.2307184785604477,0.2307184785604477
+0,0,0,90,GK,Newcastle United,Bournemouth,1,1,2022-09-17,18275,2022,550674,0,0,0,0,0,0,0
 0,0,0,90,GK,Newcastle United,Crystal Palace,0,0,2022-09-03,18253,2022,547275,0,0,0,0,0,0,0
 0,0,0,90,GK,Liverpool,Newcastle United,2,1,2022-08-31,18250,2022,546446,0,0,0,0,0,0,0
 0,0,0,90,GK,Wolverhampton Wanderers,Newcastle United,1,1,2022-08-28,18240,2022,545092,0,0,0,0,0,0.21576891839504242,0.21576891839504242

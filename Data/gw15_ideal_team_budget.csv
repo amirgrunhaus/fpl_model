@@ -1,0 +1,16 @@
+player,team,opponent_team,position,predicted_total_points,cost
+Nick Pope,Newcastle Utd,Southampton,GK,3,5.3
+Bernd Leno,Fulham,Manchester City,GK,3,4.5
+Conor Coady,Everton,Leicester City,DEF,4,5.0
+Kurt Zouma,West Ham,Crystal Palace,DEF,3,4.5
+Pervis Estupiñán,Brighton,Wolves,DEF,3,4.5
+Andrew Robertson,Liverpool,Tottenham,DEF,4,6.7
+Clément Lenglet,Tottenham,Liverpool,DEF,3,4.8
+Leandro Trossard,Brighton,Wolves,MID,8,6.9
+Mohamed Salah,Liverpool,Tottenham,MID,8,12.8
+Martin Ødegaard,Arsenal,Chelsea,MID,6,6.4
+Reiss Nelson,Arsenal,Chelsea,MID,7,4.8
+Marcus Rashford,Manchester Utd,Aston Villa,MID,7,6.6
+Roberto Firmino,Liverpool,Tottenham,FWD,6,8.1
+Callum Wilson,Newcastle Utd,Southampton,FWD,6,7.4
+Aleksandar Mitrović,Fulham,Manchester City,FWD,8,6.9

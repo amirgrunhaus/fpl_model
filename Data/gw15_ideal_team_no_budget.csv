@@ -1,0 +1,16 @@
+player,gw,position,team,opponent_team,season,predicted_total_points,cost
+Nick Pope,15,GK,Newcastle Utd,Southampton,2223,3,5.3
+Illan Meslier,15,GK,Leeds,Bournemouth,2223,3,4.5
+Andrew Robertson,15,DEF,Liverpool,Tottenham,2223,4,6.7
+Conor Coady,15,DEF,Everton,Leicester City,2223,4,5.0
+Clément Lenglet,15,DEF,Tottenham,Liverpool,2223,3,4.8
+Pervis Estupiñán,15,DEF,Brighton,Wolves,2223,3,4.5
+Kieran Trippier,15,DEF,Newcastle Utd,Southampton,2223,3,5.8
+Mohamed Salah,15,MID,Liverpool,Tottenham,2223,8,12.8
+Leandro Trossard,15,MID,Brighton,Wolves,2223,8,6.9
+Marcus Rashford,15,MID,Manchester Utd,Aston Villa,2223,7,6.6
+Reiss Nelson,15,MID,Arsenal,Chelsea,2223,7,4.8
+Martin Ødegaard,15,MID,Arsenal,Chelsea,2223,6,6.4
+Aleksandar Mitrović,15,FWD,Fulham,Manchester City,2223,8,6.9
+Callum Wilson,15,FWD,Newcastle Utd,Southampton,2223,6,7.4
+Roberto Firmino,15,FWD,Liverpool,Tottenham,2223,6,8.1
