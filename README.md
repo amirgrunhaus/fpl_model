@@ -3,12 +3,14 @@
 This repository contains a set of models built for Fantasy Premier League (FPL):
 - [draft_picks.ipynb](https://github.com/amirgrunhaus/fpl_model/blob/main/draft_picks.ipynb): this notebook contains a model that optimizes the draft player-selection process by ranking the best player picks per draft round. For every draft round, the algorithm ranks 10 players per round (for a 10-manager league), based on statistics from the 2021-22 season. The model also returns ideal FPL Draft teams for every used statistic.
 
-- [pl_predictions.ipynb](https://github.com/amirgrunhaus/fpl_model/blob/main/pl_predictions.ipynb): this notebook contains a ML Linear Multiple Regression model that predicts how many points a player will score for a specific gameweek during the 2022-23 PL Season based on data dating back to the 2020-21 PL Season. The model also recommends an ideal team for the upcoming gameweek based on predicted total points.
+- [pl_predictions_linear_regression.ipynb](https://github.com/amirgrunhaus/fpl_model/blob/main/pl_predictions_linear_regression.ipynb): this notebook contains a ML Linear Multiple Regression model that predicts how many points a player will score for a specific gameweek during the 2022-23 PL Season based on data dating back to the 2020-21 PL Season. The model also recommends an ideal team for the upcoming gameweek based on predicted total points. **THIS MODEL WAS DISCONTINUED.**
+
+- [pl_predictions_linear_regression.ipynb](https://github.com/amirgrunhaus/fpl_model/blob/main/pl_predictions_random_forest.ipynb): this notebook contains a ML Random Forest model that predicts how many points a player will score for a specific gameweek during the 2022-23 PL Season based on data dating back to the 2020-21 PL Season. The model also recommends an ideal team for the upcoming gameweek based on predicted total points.
 
 - [fantasy_ideal_team.ipynb](https://github.com/amirgrunhaus/fpl_model/blob/main/fantasy_ideal_team.ipynb): this notebook contains a model that creates 3 ideal FPL teams. The teams are based on each player's last season total points, PP90min (points scored per 90min played), and ROI (Return on Investment - how many points the player returned for every £1 invested in them). 
 
 Supporting notebook:
-- [data_update.ipynb](https://github.com/amirgrunhaus/fpl_model/blob/main/data_update.ipynb): this notebook updates the training data weekly for the gameweek points prediction model. 
+- [data_update.ipynb](https://github.com/amirgrunhaus/fpl_model/blob/main/data_update.ipynb): this notebook updates the training data weekly for the prediction models. 
 
 In the [data directory](https://github.com/amirgrunhaus/fpl_model/tree/main/Data), you can find the following data:
 - **Player data for each gameweek since the 2016-17 PL season** - one folder with various csv files for each season (credits to [vaastav](https://github.com/vaastav/Fantasy-Premier-League) for scraping data from the FPL site every week).
@@ -22,5 +24,3 @@ In the [data directory](https://github.com/amirgrunhaus/fpl_model/tree/main/Data
 **There's some extra data in the directory, however, the data specified above is the most relevant and what I use in the notebooks.*
 
 **The ideal_teams directory contains png files of the ideal teams from fantasy_ideal_team.ipynb.*
-
-I'm currently working in new notebooks and will be updating the repository weekly.
