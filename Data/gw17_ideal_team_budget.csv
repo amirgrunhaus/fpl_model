@@ -1,0 +1,16 @@
+player,team,opponent_team,position,predicted_total_points,cost
+Gavin Bazunu,Southampton,Brighton,GK,9,4.5
+Danny Ward,Leicester City,Newcastle Utd,GK,3,4.1
+Mohammed Salisu,Southampton,Brighton,DEF,6,4.4
+William Saliba,Arsenal,West Ham,DEF,6,5.3
+Daniel Amartey,Leicester City,Newcastle Utd,DEF,7,4.3
+Manuel Akanji,Manchester City,Leeds,DEF,6,5.0
+Andrew Robertson,Liverpool,Aston Villa,DEF,9,6.8
+Martin Ødegaard,Arsenal,West Ham,MID,12,6.4
+Joe Willock,Newcastle Utd,Leicester City,MID,11,4.9
+Harvey Barnes,Leicester City,Newcastle Utd,MID,8,6.9
+Rodrigo Bentancur,Tottenham,Brentford,MID,14,5.4
+Rodrigo Moreno,Leeds,Manchester City,MID,13,6.3
+Che Adams,Southampton,Brighton,FWD,9,6.4
+Ivan Toney,Brentford,Tottenham,FWD,15,7.4
+Darwin Núñez Ribeiro,Liverpool,Aston Villa,FWD,13,9.0
