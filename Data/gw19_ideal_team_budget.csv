@@ -1,0 +1,16 @@
+player,team,opponent_team,position,predicted_total_points,cost
+David De Gea Quintana,Manchester Utd,Bournemouth,GK,6,4.9
+Nick Pope,Newcastle Utd,Arsenal,GK,6,5.3
+Ethan Pinnock,Brentford,Liverpool,DEF,7,4.4
+Serge Aurier,Nottingham Forest,Southampton,DEF,7,4.5
+Dan Burn,Newcastle Utd,Arsenal,DEF,6,4.5
+Sven Botman,Newcastle Utd,Arsenal,DEF,6,4.4
+Clément Lenglet,Tottenham,Crystal Palace,DEF,6,4.8
+Demarai Gray,Everton,Brighton,MID,9,5.3
+Raheem Sterling,Chelsea,Manchester City,MID,9,9.7
+Martin Ødegaard,Arsenal,Newcastle Utd,MID,12,6.6
+Gabriel Martinelli Silva,Arsenal,Newcastle Utd,MID,10,6.8
+Kaoru Mitoma,Brighton,Everton,MID,9,4.9
+Ivan Toney,Brentford,Liverpool,FWD,12,7.5
+Eddie Nketiah,Arsenal,Newcastle Utd,FWD,8,6.5
+Erling Haaland,Manchester City,Chelsea,FWD,6,12.2
