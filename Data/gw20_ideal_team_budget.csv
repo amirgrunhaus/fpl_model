@@ -1,0 +1,16 @@
+player,team,opponent_team,position,predicted_total_points,cost
+Nick Pope,Newcastle Utd,Fulham,GK,3,5.4
+Lukasz Fabianski,West Ham,Wolves,GK,2,5.0
+Kieran Trippier,Newcastle Utd,Fulham,DEF,7,6.0
+Dan Burn,Newcastle Utd,Fulham,DEF,6,4.5
+Luke Shaw,Manchester Utd,Manchester City,DEF,9,5.1
+Ethan Pinnock,Brentford,Bournemouth,DEF,7,4.4
+Matt Doherty,Tottenham,Arsenal,DEF,8,4.6
+Daniel Castelo Podence,Wolves,West Ham,MID,8,5.3
+Solly March,Brighton,Liverpool,MID,9,5.0
+Kaoru Mitoma,Brighton,Liverpool,MID,11,4.9
+Son Heung-min,Tottenham,Arsenal,MID,8,11.6
+Alex Oxlade-Chamberlain,Liverpool,Brighton,MID,9,4.9
+Bryan Mbeumo,Brentford,Bournemouth,FWD,9,5.9
+Harry Kane,Tottenham,Arsenal,FWD,13,11.6
+Taiwo Awoniyi,Nottingham Forest,Leicester City,FWD,9,5.7

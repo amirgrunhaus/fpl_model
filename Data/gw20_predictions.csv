@@ -1,0 +1,581 @@
+player,gw,position,team,opponent_team,season,predicted_total_points,cost
+Raúl Jiménez,20,FWD,Wolves,West Ham,2223,0,6.7
+Hwang Hee-chan,20,MID,Wolves,West Ham,2223,1,5.7
+Max Kilman,20,DEF,Wolves,West Ham,2223,1,4.4
+Nathan Collins,20,DEF,Wolves,West Ham,2223,2,4.4
+Joseph Hodge,20,MID,Wolves,West Ham,2223,1,4.4
+Connor Ronan,20,MID,Wolves,West Ham,2223,0,4.4
+Chem Campbell,20,MID,Wolves,West Ham,2223,0,4.4
+Sasa Kalajdzic,20,FWD,Wolves,West Ham,2223,0,5.3
+Boubacar Traoré,20,MID,Wolves,West Ham,2223,0,4.4
+Dexter Lembikisa,20,DEF,Wolves,West Ham,2223,0,4.0
+Jonathan Castro Otto,20,DEF,Wolves,West Ham,2223,0,4.4
+José Malheiro de Sá,20,GK,Wolves,West Ham,2223,2,5.0
+Rúben da Silva Neves,20,MID,Wolves,West Ham,2223,2,5.5
+Nélson Cabral Semedo,20,DEF,Wolves,West Ham,2223,2,5.0
+Daniel Castelo Podence,20,MID,Wolves,West Ham,2223,8,5.3
+Luke Cundle,20,MID,Wolves,West Ham,2223,0,4.4
+Pedro Lomba Neto,20,MID,Wolves,West Ham,2223,0,4.9
+Fabio Silva,20,FWD,Wolves,West Ham,2223,0,5.5
+Toti António Gomes,20,DEF,Wolves,West Ham,2223,1,3.9
+Francisco Jorge Tomás Oliveira,20,MID,Wolves,West Ham,2223,0,5.0
+Adama Traoré Diarra,20,MID,Wolves,West Ham,2223,1,5.5
+Matija Šarkić,20,GK,Wolves,West Ham,2223,0,3.9
+Yerson Mosquera Valdelamar,20,DEF,Wolves,West Ham,2223,0,3.9
+João Filipe Iria Santos Moutinho,20,MID,Wolves,West Ham,2223,2,4.7
+Jackson Smith,20,GK,Wolves,West Ham,2223,0,3.9
+Hugo Bueno López,20,DEF,Wolves,West Ham,2223,2,3.9
+Gonçalo Manuel Ganchinho Guedes,20,MID,Wolves,West Ham,2223,0,5.9
+Diego Da Silva Costa,20,FWD,Wolves,West Ham,2223,1,5.5
+Nathan Fraser,20,FWD,Wolves,West Ham,2223,0,4.5
+Harvey Griffiths,20,MID,Wolves,West Ham,2223,0,4.5
+Matheus Santos Carneiro Da Cunha,20,FWD,Wolves,West Ham,2223,1,5.5
+Hugo Lloris,20,GK,Tottenham,Arsenal,2223,2,5.5
+Fraser Forster,20,GK,Tottenham,Arsenal,2223,0,3.9
+Harry Kane,20,FWD,Tottenham,Arsenal,2223,13,11.6
+Son Heung-min,20,MID,Tottenham,Arsenal,2223,8,11.6
+Matt Doherty,20,DEF,Tottenham,Arsenal,2223,8,4.6
+Eric Dier,20,DEF,Tottenham,Arsenal,2223,2,5.2
+Davinson Sánchez,20,DEF,Tottenham,Arsenal,2223,0,4.3
+Ryan Sessegnon,20,DEF,Tottenham,Arsenal,2223,1,4.5
+Japhet Tanganga,20,DEF,Tottenham,Arsenal,2223,0,3.9
+Rodrigo Bentancur,20,MID,Tottenham,Arsenal,2223,0,5.4
+Oliver Skipp,20,MID,Tottenham,Arsenal,2223,1,4.3
+Cristian Romero,20,DEF,Tottenham,Arsenal,2223,2,4.9
+Yves Bissouma,20,MID,Tottenham,Arsenal,2223,0,4.7
+Dejan Kulusevski,20,MID,Tottenham,Arsenal,2223,0,7.9
+Ivan Perišić,20,DEF,Tottenham,Arsenal,2223,5,5.5
+Harvey White,20,MID,Tottenham,Arsenal,2223,1,4.4
+Pape Matar Sarr,20,MID,Tottenham,Arsenal,2223,1,4.3
+Clément Lenglet,20,DEF,Tottenham,Arsenal,2223,2,4.8
+Djed Spence,20,DEF,Tottenham,Arsenal,2223,0,4.1
+Lucas Rodrigues Moura da Silva,20,MID,Tottenham,Arsenal,2223,0,5.8
+Harry Winks,20,MID,Tottenham,Arsenal,2223,0,4.4
+Steven Bergwijn,20,MID,Tottenham,Arsenal,2223,0,5.5
+Sergio Reguilón,20,DEF,Tottenham,Arsenal,2223,0,4.2
+Joe Rodon,20,DEF,Tottenham,Arsenal,2223,0,4.0
+Emerson Leite de Souza Junior,20,DEF,Tottenham,Arsenal,2223,1,4.9
+Dane Scarlett,20,FWD,Tottenham,Arsenal,2223,0,4.5
+Brandon Austin,20,GK,Tottenham,Arsenal,2223,0,3.9
+Alfie Devine,20,MID,Tottenham,Arsenal,2223,0,4.3
+Troy Parrott,20,FWD,Tottenham,Arsenal,2223,0,4.5
+Richarlison de Andrade,20,FWD,Tottenham,Arsenal,2223,0,8.4
+Bryan Gil Salvatierra,20,MID,Tottenham,Arsenal,2223,2,5.0
+Neco Williams,20,DEF,Nottingham Forest,Leicester City,2223,1,4.0
+Steve Cook,20,DEF,Nottingham Forest,Leicester City,2223,0,4.4
+Jack Colback,20,MID,Nottingham Forest,Leicester City,2223,1,4.2
+Scott McKenna,20,DEF,Nottingham Forest,Leicester City,2223,0,4.4
+Ryan Yates,20,MID,Nottingham Forest,Leicester City,2223,2,5.0
+Joe Worrall,20,DEF,Nottingham Forest,Leicester City,2223,1,4.2
+Sam Surridge,20,FWD,Nottingham Forest,Leicester City,2223,1,4.7
+Brennan Johnson,20,FWD,Nottingham Forest,Leicester City,2223,2,5.6
+Taiwo Awoniyi,20,FWD,Nottingham Forest,Leicester City,2223,9,5.7
+Dean Henderson,20,GK,Nottingham Forest,Leicester City,2223,1,4.7
+Giulian Biancone,20,DEF,Nottingham Forest,Leicester City,2223,0,4.2
+Willy Boly,20,DEF,Nottingham Forest,Leicester City,2223,1,4.2
+Wayne Hennessey,20,GK,Nottingham Forest,Leicester City,2223,0,3.9
+Harry Toffolo,20,DEF,Nottingham Forest,Leicester City,2223,1,4.3
+Lewis O'Brien,20,MID,Nottingham Forest,Leicester City,2223,0,4.8
+Jesse Lingard,20,MID,Nottingham Forest,Leicester City,2223,0,5.4
+Orel Mangala,20,MID,Nottingham Forest,Leicester City,2223,1,4.9
+Remo Freuler,20,MID,Nottingham Forest,Leicester City,2223,2,4.9
+Cheikhou Kouyaté,20,MID,Nottingham Forest,Leicester City,2223,0,4.5
+Emmanuel Dennis,20,FWD,Nottingham Forest,Leicester City,2223,0,5.7
+Serge Aurier,20,DEF,Nottingham Forest,Leicester City,2223,2,4.5
+Harry Arter,20,MID,Nottingham Forest,Leicester City,2223,0,4.2
+Lyle Taylor,20,FWD,Nottingham Forest,Leicester City,2223,0,4.2
+Brice Samba,20,GK,Nottingham Forest,Leicester City,2223,0,4.5
+Carlos Ribeiro Dias,20,MID,Nottingham Forest,Leicester City,2223,0,4.3
+Joe Lolley,20,MID,Nottingham Forest,Leicester City,2223,0,4.9
+Mohamed Dräger,20,DEF,Nottingham Forest,Leicester City,2223,0,4.0
+Jonathan Panzo,20,DEF,Nottingham Forest,Leicester City,2223,0,4.0
+Xande Nascimento da Costa Silva,20,MID,Nottingham Forest,Leicester City,2223,0,5.0
+Richie Laryea,20,DEF,Nottingham Forest,Leicester City,2223,0,4.5
+Loïc Mbe Soh,20,DEF,Nottingham Forest,Leicester City,2223,0,4.2
+Alex Mighten,20,MID,Nottingham Forest,Leicester City,2223,0,4.9
+Braian Ojeda Rodríguez,20,MID,Nottingham Forest,Leicester City,2223,0,4.5
+Omar Richards,20,DEF,Nottingham Forest,Leicester City,2223,0,4.4
+Oliver Hammond,20,MID,Nottingham Forest,Leicester City,2223,0,4.3
+Renan Augusto Lodi dos Santos,20,DEF,Nottingham Forest,Leicester City,2223,2,4.3
+Loïc Badé,20,DEF,Nottingham Forest,Leicester City,2223,0,4.5
+Dale Taylor,20,FWD,Nottingham Forest,Leicester City,2223,0,4.5
+Jordan Smith,20,GK,Nottingham Forest,Leicester City,2223,0,4.0
+Gustavo Henrique Furtado Scarpa,20,MID,Nottingham Forest,Leicester City,2223,1,5.0
+Jonjo Shelvey,20,MID,Newcastle Utd,Fulham,2223,0,4.8
+Matt Ritchie,20,DEF,Newcastle Utd,Fulham,2223,0,4.2
+Chris Wood,20,FWD,Newcastle Utd,Fulham,2223,1,5.6
+Callum Wilson,20,FWD,Newcastle Utd,Fulham,2223,1,7.2
+Kieran Trippier,20,DEF,Newcastle Utd,Fulham,2223,7,6.0
+Dan Burn,20,DEF,Newcastle Utd,Fulham,2223,6,4.5
+Ryan Fraser,20,MID,Newcastle Utd,Fulham,2223,0,5.2
+Jamaal Lascelles,20,DEF,Newcastle Utd,Fulham,2223,0,4.3
+Emil Krafth,20,DEF,Newcastle Utd,Fulham,2223,0,4.3
+Jacob Murphy,20,MID,Newcastle Utd,Fulham,2223,1,4.3
+Fabian Schär,20,DEF,Newcastle Utd,Fulham,2223,6,5.0
+Matt Targett,20,DEF,Newcastle Utd,Fulham,2223,0,4.8
+Allan Saint-Maximin,20,MID,Newcastle Utd,Fulham,2223,1,6.2
+Sean Longstaff,20,MID,Newcastle Utd,Fulham,2223,3,4.4
+Jamal Lewis,20,DEF,Newcastle Utd,Fulham,2223,0,4.4
+Joe Willock,20,MID,Newcastle Utd,Fulham,2223,3,4.8
+Nick Pope,20,GK,Newcastle Utd,Fulham,2223,3,5.4
+Sven Botman,20,DEF,Newcastle Utd,Fulham,2223,2,4.5
+Elliot Anderson,20,MID,Newcastle Utd,Fulham,2223,0,4.4
+Alexander Isak,20,FWD,Newcastle Utd,Fulham,2223,0,6.6
+Federico Fernández,20,DEF,Newcastle Utd,Fulham,2223,0,4.4
+Ciaran Clark,20,DEF,Newcastle Utd,Fulham,2223,0,4.5
+Karl Darlow,20,GK,Newcastle Utd,Fulham,2223,0,3.9
+Martin Dubravka,20,GK,Newcastle Utd,Fulham,2223,0,4.2
+Dwight Gayle,20,FWD,Newcastle Utd,Fulham,2223,0,4.5
+Paul Dummett,20,DEF,Newcastle Utd,Fulham,2223,0,3.9
+Miguel Almirón Rejala,20,MID,Newcastle Utd,Fulham,2223,2,5.9
+Joelinton Cássio Apolinário de Lira,20,MID,Newcastle Utd,Fulham,2223,2,5.9
+Bruno Guimarães Rodriguez Moura,20,MID,Newcastle Utd,Fulham,2223,2,5.7
+Jeff Hendrick,20,MID,Newcastle Utd,Fulham,2223,0,4.5
+Loris Karius,20,GK,Newcastle Utd,Fulham,2223,0,4.0
+Garang Kuol,20,MID,Newcastle Utd,Fulham,2223,0,4.5
+Raphaël Varane,20,DEF,Manchester Utd,Manchester City,2223,0,4.8
+Harry Maguire,20,DEF,Manchester Utd,Manchester City,2223,2,4.7
+Luke Shaw,20,DEF,Manchester Utd,Manchester City,2223,9,5.1
+Marcus Rashford,20,MID,Manchester Utd,Manchester City,2223,7,7.0
+Donny van de Beek,20,MID,Manchester Utd,Manchester City,2223,1,5.1
+Victor Lindelöf,20,DEF,Manchester Utd,Manchester City,2223,2,4.2
+Scott McTominay,20,MID,Manchester Utd,Manchester City,2223,0,4.9
+Jadon Sancho,20,MID,Manchester Utd,Manchester City,2223,0,7.1
+Aaron Wan-Bissaka,20,DEF,Manchester Utd,Manchester City,2223,2,4.3
+Anthony Elanga,20,MID,Manchester Utd,Manchester City,2223,1,4.7
+Anthony Martial,20,FWD,Manchester Utd,Manchester City,2223,2,6.6
+Tyrell Malacia,20,DEF,Manchester Utd,Manchester City,2223,0,4.2
+Christian Eriksen,20,MID,Manchester Utd,Manchester City,2223,2,6.3
+Lisandro Martínez,20,DEF,Manchester Utd,Manchester City,2223,1,4.5
+Alejandro Garnacho,20,MID,Manchester Utd,Manchester City,2223,2,4.2
+Jack Butland,20,GK,Manchester Utd,Manchester City,2223,0,4.4
+Cristiano Ronaldo dos Santos Aveiro,20,FWD,Manchester Utd,Manchester City,2223,0,10.2
+David De Gea Quintana,20,GK,Manchester Utd,Manchester City,2223,2,4.9
+Phil Jones,20,DEF,Manchester Utd,Manchester City,2223,0,3.9
+Frederico Rodrigues de Paula Santos,20,MID,Manchester Utd,Manchester City,2223,1,5.1
+Alex Telles,20,DEF,Manchester Utd,Manchester City,2223,0,5.0
+Eric Bailly,20,DEF,Manchester Utd,Manchester City,2223,0,4.0
+Diogo Dalot Teixeira,20,DEF,Manchester Utd,Manchester City,2223,2,4.7
+Brandon Williams,20,DEF,Manchester Utd,Manchester City,2223,0,3.8
+Facundo Pellistri Rebollo,20,MID,Manchester Utd,Manchester City,2223,0,4.3
+Tom Heaton,20,GK,Manchester Utd,Manchester City,2223,0,3.9
+Amad Diallo,20,MID,Manchester Utd,Manchester City,2223,0,4.4
+Zidane Iqbal,20,MID,Manchester Utd,Manchester City,2223,0,4.3
+Carlos Henrique Casimiro,20,MID,Manchester Utd,Manchester City,2223,8,4.9
+Antony Matheus dos Santos,20,MID,Manchester Utd,Manchester City,2223,0,7.4
+Matej Kovár,20,GK,Manchester Utd,Manchester City,2223,0,4.0
+Kobbie Mainoo,20,MID,Manchester Utd,Manchester City,2223,0,4.5
+Nathan Bishop,20,GK,Manchester Utd,Manchester City,2223,0,4.0
+Shola Shoretire,20,FWD,Manchester Utd,Manchester City,2223,0,4.5
+Rhys Bennett,20,DEF,Manchester Utd,Manchester City,2223,0,4.0
+Neal Maupay,20,FWD,Everton,Southampton,2223,1,6.0
+Asmir Begović,20,GK,Everton,Southampton,2223,0,4.0
+Salomón Rondón,20,FWD,Everton,Southampton,2223,0,4.9
+Michael Keane,20,DEF,Everton,Southampton,2223,0,4.2
+Dele Alli,20,MID,Everton,Southampton,2223,0,5.3
+Jordan Pickford,20,GK,Everton,Southampton,2223,2,4.5
+Abdoulaye Doucouré,20,MID,Everton,Southampton,2223,1,5.3
+Alex Iwobi,20,MID,Everton,Southampton,2223,2,5.4
+Yerry Mina,20,DEF,Everton,Southampton,2223,0,4.3
+Demarai Gray,20,MID,Everton,Southampton,2223,7,5.3
+Tom Davies,20,MID,Everton,Southampton,2223,2,4.9
+Dominic Calvert-Lewin,20,FWD,Everton,Southampton,2223,2,7.9
+Mason Holgate,20,DEF,Everton,Southampton,2223,0,4.3
+Ben Godfrey,20,DEF,Everton,Southampton,2223,0,4.3
+Anthony Gordon,20,MID,Everton,Southampton,2223,0,5.2
+Nathan Patterson,20,DEF,Everton,Southampton,2223,2,4.0
+James Tarkowski,20,DEF,Everton,Southampton,2223,2,4.3
+Conor Coady,20,DEF,Everton,Southampton,2223,2,5.0
+Dwight McNeil,20,MID,Everton,Southampton,2223,1,5.2
+James Garner,20,MID,Everton,Southampton,2223,0,4.5
+Amadou Onana,20,MID,Everton,Southampton,2223,0,4.8
+Thomas Cannon,20,FWD,Everton,Southampton,2223,0,4.5
+Isaac Price,20,MID,Everton,Southampton,2223,1,4.5
+Ellis Simms,20,FWD,Everton,Southampton,2223,1,4.5
+Andros Townsend,20,MID,Everton,Southampton,2223,0,5.4
+Allan Marques Loureiro,20,MID,Everton,Southampton,2223,0,4.8
+André Tavares Gomes,20,MID,Everton,Southampton,2223,0,4.5
+Jean-Philippe Gbamin,20,MID,Everton,Southampton,2223,0,4.5
+Jarrad Branthwaite,20,DEF,Everton,Southampton,2223,0,4.0
+Niels Nkounkou,20,DEF,Everton,Southampton,2223,0,4.0
+Rúben Nascimento Vinagre,20,DEF,Everton,Southampton,2223,0,4.3
+Stanley Mills,20,MID,Everton,Southampton,2223,0,4.4
+Lewis Warrington,20,MID,Everton,Southampton,2223,0,4.4
+Reece Welch,20,DEF,Everton,Southampton,2223,0,4.0
+Eldin Jakupovic,20,GK,Everton,Southampton,2223,0,4.0
+Kyle John,20,DEF,Everton,Southampton,2223,0,4.0
+Adam Lallana,20,MID,Brighton,Liverpool,2223,1,4.9
+Danny Welbeck,20,FWD,Brighton,Liverpool,2223,0,6.5
+Pascal Groß,20,MID,Brighton,Liverpool,2223,8,5.6
+Lewis Dunk,20,DEF,Brighton,Liverpool,2223,1,4.7
+Solly March,20,MID,Brighton,Liverpool,2223,9,5.0
+Adam Webster,20,DEF,Brighton,Liverpool,2223,0,4.5
+Joël Veltman,20,DEF,Brighton,Liverpool,2223,1,4.6
+Leandro Trossard,20,MID,Brighton,Liverpool,2223,0,6.8
+Robert Sánchez,20,GK,Brighton,Liverpool,2223,1,4.6
+Tariq Lamptey,20,DEF,Brighton,Liverpool,2223,1,4.2
+Alexis Mac Allister,20,MID,Brighton,Liverpool,2223,1,5.4
+Enock Mwepu,20,MID,Brighton,Liverpool,2223,0,5.3
+Deniz Undav,20,FWD,Brighton,Liverpool,2223,0,5.1
+Kaoru Mitoma,20,MID,Brighton,Liverpool,2223,11,4.9
+Billy Gilmour,20,MID,Brighton,Liverpool,2223,0,4.3
+Jan Paul van Hecke,20,DEF,Brighton,Liverpool,2223,0,4.0
+Levi Colwill,20,DEF,Brighton,Liverpool,2223,1,4.4
+Pervis Estupiñán,20,DEF,Brighton,Liverpool,2223,2,4.5
+Evan Ferguson,20,FWD,Brighton,Liverpool,2223,8,4.5
+Andrew Moran,20,MID,Brighton,Liverpool,2223,0,4.5
+Jason Steele,20,GK,Brighton,Liverpool,2223,0,3.9
+Steven Alzate,20,MID,Brighton,Liverpool,2223,0,4.4
+Jakub Moder,20,MID,Brighton,Liverpool,2223,0,4.4
+Jeremy Sarmiento Morante,20,MID,Brighton,Liverpool,2223,1,4.5
+Moisés Caicedo Corozo,20,MID,Brighton,Liverpool,2223,5,5.0
+Taylor Richards,20,MID,Brighton,Liverpool,2223,0,4.5
+Haydon Roberts,20,DEF,Brighton,Liverpool,2223,0,4.0
+Kacper Kozłowski,20,MID,Brighton,Liverpool,2223,0,4.5
+Kjell Scherpen,20,GK,Brighton,Liverpool,2223,0,4.0
+Matt Clarke,20,DEF,Brighton,Liverpool,2223,0,4.0
+Ed Turns,20,DEF,Brighton,Liverpool,2223,0,4.0
+James Furlong,20,DEF,Brighton,Liverpool,2223,0,4.0
+Jack Hinshelwood,20,MID,Brighton,Liverpool,2223,0,4.5
+Facundo Buonanotte,20,MID,Brighton,Liverpool,2223,0,4.5
+Pontus Jansson,20,DEF,Brentford,Bournemouth,2223,0,4.2
+Christian Nørgaard,20,MID,Brentford,Bournemouth,2223,6,5.3
+Ivan Toney,20,FWD,Brentford,Bournemouth,2223,0,7.4
+Josh Dasilva,20,MID,Brentford,Bournemouth,2223,1,4.2
+Kristoffer Ajer,20,DEF,Brentford,Bournemouth,2223,0,4.5
+Rico Henry,20,DEF,Brentford,Bournemouth,2223,2,4.5
+Vitaly Janelt,20,MID,Brentford,Bournemouth,2223,2,5.5
+Saman Ghoddos,20,MID,Brentford,Bournemouth,2223,1,4.8
+Yoane Wissa,20,MID,Brentford,Bournemouth,2223,8,5.3
+Mads Bech Sørensen,20,DEF,Brentford,Bournemouth,2223,0,4.5
+Ethan Pinnock,20,DEF,Brentford,Bournemouth,2223,7,4.4
+Frank Onyeka,20,MID,Brentford,Bournemouth,2223,0,4.8
+Shandon Baptiste,20,MID,Brentford,Bournemouth,2223,0,4.5
+Bryan Mbeumo,20,FWD,Brentford,Bournemouth,2223,9,5.9
+Aaron Hickey,20,DEF,Brentford,Bournemouth,2223,0,4.9
+Keane Lewis-Potter,20,MID,Brentford,Bournemouth,2223,1,5.2
+Ben Mee,20,DEF,Brentford,Bournemouth,2223,2,4.6
+Halil Dervişoğlu,20,FWD,Brentford,Bournemouth,2223,0,4.5
+Mikkel Damsgaard,20,MID,Brentford,Bournemouth,2223,0,5.1
+David Raya Martin,20,GK,Brentford,Bournemouth,2223,2,4.6
+Sergi Canós Tenés,20,DEF,Brentford,Bournemouth,2223,0,5.0
+Mads Roerslev Rasmussen,20,DEF,Brentford,Bournemouth,2223,2,4.3
+Charlie Goode,20,DEF,Brentford,Bournemouth,2223,0,3.9
+Marcus Forss,20,FWD,Brentford,Bournemouth,2223,0,4.5
+Dominic Thompson,20,DEF,Brentford,Bournemouth,2223,0,4.0
+Mads Bidstrup,20,MID,Brentford,Bournemouth,2223,0,4.5
+Ellery Balcombe,20,GK,Brentford,Bournemouth,2223,0,4.0
+Thomas Strakosha,20,GK,Brentford,Bournemouth,2223,0,4.3
+Fin Stevens,20,DEF,Brentford,Bournemouth,2223,0,4.0
+Ryan Trevitt,20,MID,Brentford,Bournemouth,2223,0,4.5
+Matthew Cox,20,GK,Brentford,Bournemouth,2223,0,4.0
+Tristan Crama,20,DEF,Brentford,Bournemouth,2223,0,4.0
+Yegor Yarmolyuk,20,MID,Brentford,Bournemouth,2223,0,4.5
+Danny Ings,20,FWD,Aston Villa,Leeds,2223,8,6.4
+Calum Chambers,20,DEF,Aston Villa,Leeds,2223,0,4.2
+Lucas Digne,20,DEF,Aston Villa,Leeds,2223,2,4.6
+Robin Olsen,20,GK,Aston Villa,Leeds,2223,0,3.9
+Morgan Sanson,20,MID,Aston Villa,Leeds,2223,0,4.3
+John McGinn,20,MID,Aston Villa,Leeds,2223,0,5.1
+Tyrone Mings,20,DEF,Aston Villa,Leeds,2223,2,4.3
+Ollie Watkins,20,FWD,Aston Villa,Leeds,2223,1,7.1
+Matty Cash,20,DEF,Aston Villa,Leeds,2223,2,4.6
+Leon Bailey,20,MID,Aston Villa,Leeds,2223,2,4.5
+Jacob Ramsey,20,MID,Aston Villa,Leeds,2223,0,5.2
+Boubacar Kamara,20,MID,Aston Villa,Leeds,2223,2,4.8
+Cameron Archer,20,FWD,Aston Villa,Leeds,2223,0,4.2
+Ludwig Augustinsson,20,DEF,Aston Villa,Leeds,2223,1,4.3
+Ashley Young,20,DEF,Aston Villa,Leeds,2223,1,4.4
+Bertrand Traoré,20,MID,Aston Villa,Leeds,2223,0,4.9
+Kortney Hause,20,DEF,Aston Villa,Leeds,2223,0,4.4
+Marvelous Nakamba,20,MID,Aston Villa,Leeds,2223,0,4.3
+Emiliano Buendía Stati,20,MID,Aston Villa,Leeds,2223,2,5.7
+Ezri Konsa Ngoyo,20,DEF,Aston Villa,Leeds,2223,1,4.4
+Douglas Luiz Soares de Paulo,20,MID,Aston Villa,Leeds,2223,1,4.8
+Tim Iroegbunam,20,MID,Aston Villa,Leeds,2223,0,4.5
+Diego Carlos Santos Silva,20,DEF,Aston Villa,Leeds,2223,0,4.7
+Anwar El Ghazi,20,MID,Aston Villa,Leeds,2223,0,4.8
+Keinan Davis,20,FWD,Aston Villa,Leeds,2223,0,5.4
+Jaden Philogene-Bidace,20,MID,Aston Villa,Leeds,2223,0,4.5
+Frédéric Guilbert,20,DEF,Aston Villa,Leeds,2223,0,3.9
+Kaine Kesler Hayden,20,DEF,Aston Villa,Leeds,2223,0,4.0
+Lamare Bogarde,20,DEF,Aston Villa,Leeds,2223,0,4.0
+Filip Marschall,20,GK,Aston Villa,Leeds,2223,0,4.0
+Kadan Young,20,MID,Aston Villa,Leeds,2223,0,4.5
+Angelo Ogbonna,20,DEF,West Ham,Wolves,2223,0,4.4
+Aaron Cresswell,20,DEF,West Ham,Wolves,2223,1,4.8
+Michail Antonio,20,FWD,West Ham,Wolves,2223,1,7.0
+Craig Dawson,20,DEF,West Ham,Wolves,2223,1,4.8
+Manuel Lanzini,20,MID,West Ham,Wolves,2223,0,5.1
+Kurt Zouma,20,DEF,West Ham,Wolves,2223,0,4.4
+Saïd Benrahma,20,MID,West Ham,Wolves,2223,1,5.6
+Jarrod Bowen,20,MID,West Ham,Wolves,2223,2,8.0
+Declan Rice,20,MID,West Ham,Wolves,2223,2,4.8
+Ben Johnson,20,DEF,West Ham,Wolves,2223,0,4.4
+Nayef Aguerd,20,DEF,West Ham,Wolves,2223,1,4.8
+Alphonse Areola,20,GK,West Ham,Wolves,2223,0,4.3
+Flynn Downes,20,MID,West Ham,Wolves,2223,1,4.3
+Gianluca Scamacca,20,FWD,West Ham,Wolves,2223,8,6.6
+Conor Coventry,20,MID,West Ham,Wolves,2223,0,4.4
+Maxwel Cornet,20,MID,West Ham,Wolves,2223,0,5.9
+Thilo Kehrer,20,DEF,West Ham,Wolves,2223,1,4.5
+Divin Mubama,20,FWD,West Ham,Wolves,2223,0,4.5
+Lukasz Fabianski,20,GK,West Ham,Wolves,2223,2,5.0
+Arthur Masuaku,20,DEF,West Ham,Wolves,2223,0,4.5
+Nikola Vlasic,20,MID,West Ham,Wolves,2223,0,5.0
+Tomas Soucek,20,MID,West Ham,Wolves,2223,2,5.2
+Emerson Palmieri dos Santos,20,DEF,West Ham,Wolves,2223,0,4.0
+Harrison Ashby,20,DEF,West Ham,Wolves,2223,0,3.9
+Darren Randolph,20,GK,West Ham,Wolves,2223,0,4.0
+Armstrong Oko-Flex,20,MID,West Ham,Wolves,2223,0,4.4
+Lucas Tolentino Coelho de Lima,20,MID,West Ham,Wolves,2223,8,5.9
+Granit Xhaka,20,MID,Arsenal,Tottenham,2223,2,5.0
+Mohamed Elneny,20,MID,Arsenal,Tottenham,2223,0,4.2
+Rob Holding,20,DEF,Arsenal,Tottenham,2223,0,4.2
+Thomas Partey,20,MID,Arsenal,Tottenham,2223,2,4.8
+Martin Ødegaard,20,MID,Arsenal,Tottenham,2223,2,6.7
+Kieran Tierney,20,DEF,Arsenal,Tottenham,2223,0,4.7
+Eddie Nketiah,20,FWD,Arsenal,Tottenham,2223,2,6.6
+Emile Smith Rowe,20,MID,Arsenal,Tottenham,2223,0,5.6
+Bukayo Saka,20,MID,Arsenal,Tottenham,2223,2,8.1
+Takehiro Tomiyasu,20,DEF,Arsenal,Tottenham,2223,1,4.2
+Aaron Ramsdale,20,GK,Arsenal,Tottenham,2223,2,4.9
+Albert Sambi Lokonga,20,MID,Arsenal,Tottenham,2223,0,4.3
+Reiss Nelson,20,MID,Arsenal,Tottenham,2223,0,4.7
+William Saliba,20,DEF,Arsenal,Tottenham,2223,2,5.3
+Oleksandr Zinchenko,20,DEF,Arsenal,Tottenham,2223,2,5.0
+Ethan Nwaneri,20,MID,Arsenal,Tottenham,2223,0,4.5
+Cédric Alves Soares,20,DEF,Arsenal,Tottenham,2223,0,4.2
+Nicolas Pépé,20,MID,Arsenal,Tottenham,2223,0,5.3
+Benjamin White,20,DEF,Arsenal,Tottenham,2223,2,4.7
+Gabriel dos Santos Magalhães,20,DEF,Arsenal,Tottenham,2223,2,5.2
+Nuno Varela Tavares,20,DEF,Arsenal,Tottenham,2223,0,4.5
+Gabriel Martinelli Silva,20,MID,Arsenal,Tottenham,2223,2,6.8
+Pablo Marí Villar,20,DEF,Arsenal,Tottenham,2223,0,4.5
+Lucas Torreira di Pascua,20,MID,Arsenal,Tottenham,2223,0,4.5
+Matt Turner,20,GK,Arsenal,Tottenham,2223,0,3.9
+Fábio Ferreira Vieira,20,MID,Arsenal,Tottenham,2223,0,5.7
+Marcus Oliveira Alencar,20,MID,Arsenal,Tottenham,2223,0,4.6
+Gabriel Fernando de Jesus,20,FWD,Arsenal,Tottenham,2223,0,7.9
+Matthew Smith,20,MID,Arsenal,Tottenham,2223,0,4.5
+Lino Sousa,20,DEF,Arsenal,Tottenham,2223,0,4.0
+Karl Hein,20,GK,Arsenal,Tottenham,2223,0,4.0
+Amario Cozier-Duberry,20,MID,Arsenal,Tottenham,2223,0,4.5
+Nathan Butler-Oyedeji,20,FWD,Arsenal,Tottenham,2223,0,4.5
+Jonny Evans,20,DEF,Leicester City,Nottingham Forest,2223,0,4.4
+Marc Albrighton,20,MID,Leicester City,Nottingham Forest,2223,2,4.7
+Nampalys Mendy,20,MID,Leicester City,Nottingham Forest,2223,1,4.3
+Danny Ward,20,GK,Leicester City,Nottingham Forest,2223,2,4.1
+Jamie Vardy,20,FWD,Leicester City,Nottingham Forest,2223,2,9.1
+Daniel Amartey,20,DEF,Leicester City,Nottingham Forest,2223,2,4.2
+Timothy Castagne,20,DEF,Leicester City,Nottingham Forest,2223,1,4.6
+Youri Tielemans,20,MID,Leicester City,Nottingham Forest,2223,2,6.2
+Ayoze Pérez,20,MID,Leicester City,Nottingham Forest,2223,2,4.7
+James Maddison,20,MID,Leicester City,Nottingham Forest,2223,0,8.0
+Kelechi Iheanacho,20,FWD,Leicester City,Nottingham Forest,2223,1,6.1
+Harvey Barnes,20,MID,Leicester City,Nottingham Forest,2223,2,6.8
+Wilfred Ndidi,20,MID,Leicester City,Nottingham Forest,2223,1,4.8
+Kiernan Dewsbury-Hall,20,MID,Leicester City,Nottingham Forest,2223,0,4.9
+James Justin,20,DEF,Leicester City,Nottingham Forest,2223,0,4.2
+Boubakary Soumaré,20,MID,Leicester City,Nottingham Forest,2223,1,4.4
+Luke Thomas,20,DEF,Leicester City,Nottingham Forest,2223,2,4.2
+Patson Daka,20,FWD,Leicester City,Nottingham Forest,2223,0,5.7
+Lewis Brunt,20,DEF,Leicester City,Nottingham Forest,2223,0,3.9
+Dennis Praet,20,MID,Leicester City,Nottingham Forest,2223,0,4.8
+Wout Faes,20,DEF,Leicester City,Nottingham Forest,2223,2,4.4
+Kasper Schmeichel,20,GK,Leicester City,Nottingham Forest,2223,0,5.0
+Ryan Bertrand,20,DEF,Leicester City,Nottingham Forest,2223,0,3.9
+Jannik Vestergaard,20,DEF,Leicester City,Nottingham Forest,2223,0,3.9
+Ricardo Barbosa Pereira,20,DEF,Leicester City,Nottingham Forest,2223,0,4.3
+Hamza Choudhury,20,MID,Leicester City,Nottingham Forest,2223,0,4.5
+Çaglar Söyüncü,20,DEF,Leicester City,Nottingham Forest,2223,0,4.2
+Daniel Iversen,20,GK,Leicester City,Nottingham Forest,2223,0,3.9
+Alex Smithies,20,GK,Leicester City,Nottingham Forest,2223,0,4.0
+Sammy Braybrooke,20,MID,Leicester City,Nottingham Forest,2223,0,4.5
+Joe Wormleighton,20,DEF,Leicester City,Nottingham Forest,2223,0,4.0
+Kasey McAteer,20,MID,Leicester City,Nottingham Forest,2223,0,4.5
+Kyle Walker,20,DEF,Manchester City,Manchester Utd,2223,1,4.8
+Kevin De Bruyne,20,MID,Manchester City,Manchester Utd,2223,2,12.5
+John Stones,20,DEF,Manchester City,Manchester Utd,2223,2,5.4
+Riyad Mahrez,20,MID,Manchester City,Manchester Utd,2223,8,7.5
+Jack Grealish,20,MID,Manchester City,Manchester Utd,2223,4,6.8
+João Cancelo,20,DEF,Manchester City,Manchester Utd,2223,1,7.2
+Nathan Aké,20,DEF,Manchester City,Manchester Utd,2223,2,5.0
+Aymeric Laporte,20,DEF,Manchester City,Manchester Utd,2223,0,5.7
+Phil Foden,20,MID,Manchester City,Manchester Utd,2223,1,8.2
+Cole Palmer,20,MID,Manchester City,Manchester Utd,2223,0,4.3
+Erling Haaland,20,FWD,Manchester City,Manchester Utd,2223,2,12.2
+Julián Álvarez,20,FWD,Manchester City,Manchester Utd,2223,0,6.0
+Kalvin Phillips,20,MID,Manchester City,Manchester Utd,2223,1,4.8
+Rico Lewis,20,DEF,Manchester City,Manchester Utd,2223,1,3.9
+Sergio Gómez,20,DEF,Manchester City,Manchester Utd,2223,0,4.5
+Manuel Akanji,20,DEF,Manchester City,Manchester Utd,2223,1,5.0
+Ilkay Gündogan,20,MID,Manchester City,Manchester Utd,2223,2,7.3
+Ederson Santana de Moraes,20,GK,Manchester City,Manchester Utd,2223,2,5.4
+Zack Steffen,20,GK,Manchester City,Manchester Utd,2223,0,4.0
+Bernardo Veiga de Carvalho e Silva,20,MID,Manchester City,Manchester Utd,2223,2,6.8
+Rúben Gato Alves Dias,20,DEF,Manchester City,Manchester Utd,2223,0,5.9
+Rodrigo Hernandez,20,MID,Manchester City,Manchester Utd,2223,2,5.6
+James McAtee,20,MID,Manchester City,Manchester Utd,2223,0,4.5
+Luke Mbete-Tabu,20,DEF,Manchester City,Manchester Utd,2223,0,3.9
+Josh Wilson-Esbrand,20,DEF,Manchester City,Manchester Utd,2223,0,3.8
+Liam Delap,20,FWD,Manchester City,Manchester Utd,2223,0,4.4
+Stefan Ortega Moreno,20,GK,Manchester City,Manchester Utd,2223,0,3.8
+Scott Carson,20,GK,Manchester City,Manchester Utd,2223,0,3.8
+Claudio Gomes,20,MID,Manchester City,Manchester Utd,2223,0,4.5
+Ben Knight,20,MID,Manchester City,Manchester Utd,2223,0,4.5
+Ainsley Maitland-Niles,20,MID,Southampton,Everton,2223,0,4.8
+Roméo Lavia,20,MID,Southampton,Everton,2223,1,4.5
+Theo Walcott,20,MID,Southampton,Everton,2223,0,4.8
+Nathan Redmond,20,MID,Southampton,Everton,2223,0,5.3
+Stuart Armstrong,20,MID,Southampton,Everton,2223,1,4.7
+Mohamed Elyounoussi,20,MID,Southampton,Everton,2223,2,5.2
+James Ward-Prowse,20,MID,Southampton,Everton,2223,2,6.2
+Adam Armstrong,20,FWD,Southampton,Everton,2223,1,5.5
+Kyle Walker-Peters,20,DEF,Southampton,Everton,2223,2,4.4
+Che Adams,20,FWD,Southampton,Everton,2223,2,6.3
+Yan Valery,20,DEF,Southampton,Everton,2223,0,4.0
+Ibrahima Diallo,20,MID,Southampton,Everton,2223,0,4.3
+Romain Perraud,20,DEF,Southampton,Everton,2223,1,4.3
+Moussa Djenepo,20,MID,Southampton,Everton,2223,0,5.0
+Mohammed Salisu,20,DEF,Southampton,Everton,2223,2,4.4
+Gavin Bazunu,20,GK,Southampton,Everton,2223,1,4.5
+Samuel Edozie,20,MID,Southampton,Everton,2223,1,4.7
+Alex McCarthy,20,GK,Southampton,Everton,2223,0,4.3
+Oriol Romeu Vidal,20,MID,Southampton,Everton,2223,0,4.8
+Nathan Tella,20,MID,Southampton,Everton,2223,0,5.0
+Lyanco Silveira Neves Vojnovic,20,DEF,Southampton,Everton,2223,1,4.4
+Will Smallbone,20,MID,Southampton,Everton,2223,0,4.5
+Tino Livramento,20,DEF,Southampton,Everton,2223,0,4.4
+Mateusz Lis,20,GK,Southampton,Everton,2223,0,4.0
+Willy Caballero,20,GK,Southampton,Everton,2223,0,3.9
+Joe Ayodele-Aribo,20,MID,Southampton,Everton,2223,1,5.2
+Lewis Payne,20,MID,Southampton,Everton,2223,0,4.5
+Ryan Finnigan,20,MID,Southampton,Everton,2223,0,4.5
+Jimmy Morgan,20,FWD,Southampton,Everton,2223,0,4.5
+Vicente Guaita,20,GK,Crystal Palace,Chelsea,2223,1,4.5
+James Tomkins,20,DEF,Crystal Palace,Chelsea,2223,0,3.9
+Joel Ward,20,DEF,Crystal Palace,Chelsea,2223,1,4.5
+Nathaniel Clyne,20,DEF,Crystal Palace,Chelsea,2223,1,4.5
+Jordan Ayew,20,MID,Crystal Palace,Chelsea,2223,2,5.3
+Wilfried Zaha,20,MID,Crystal Palace,Chelsea,2223,2,7.3
+Jeffrey Schlupp,20,MID,Crystal Palace,Chelsea,2223,2,4.7
+Will Hughes,20,MID,Crystal Palace,Chelsea,2223,1,4.8
+Joachim Andersen,20,DEF,Crystal Palace,Chelsea,2223,1,4.5
+Marc Guéhi,20,DEF,Crystal Palace,Chelsea,2223,1,4.4
+Jean-Philippe Mateta,20,FWD,Crystal Palace,Chelsea,2223,1,5.1
+Eberechi Eze,20,MID,Crystal Palace,Chelsea,2223,2,5.6
+Tyrick Mitchell,20,DEF,Crystal Palace,Chelsea,2223,0,4.4
+Michael Olise,20,MID,Crystal Palace,Chelsea,2223,2,5.4
+Malcolm Ebiowei,20,MID,Crystal Palace,Chelsea,2223,0,4.2
+Cheick Doucouré,20,MID,Crystal Palace,Chelsea,2223,2,5.0
+Chris Richards,20,DEF,Crystal Palace,Chelsea,2223,0,4.4
+James McArthur,20,MID,Crystal Palace,Chelsea,2223,0,4.8
+Christian Benteke,20,FWD,Crystal Palace,Chelsea,2223,0,5.5
+Jesurun Rak-Sakyi,20,MID,Crystal Palace,Chelsea,2223,0,4.5
+Nathan Ferguson,20,DEF,Crystal Palace,Chelsea,2223,0,3.9
+Sam Johnstone,20,GK,Crystal Palace,Chelsea,2223,0,4.4
+Remi Matthews,20,GK,Crystal Palace,Chelsea,2223,0,4.0
+Luke Plange,20,FWD,Crystal Palace,Chelsea,2223,0,4.5
+Joseph Whitworth,20,GK,Crystal Palace,Chelsea,2223,0,4.0
+Kaden Rodney,20,MID,Crystal Palace,Chelsea,2223,0,4.5
+Killian Phillips,20,MID,Crystal Palace,Chelsea,2223,0,4.5
+John-Kymani Gordon,20,FWD,Crystal Palace,Chelsea,2223,0,4.5
+Kofi Balmer,20,DEF,Crystal Palace,Chelsea,2223,0,4.0
+Owen Goodman,20,GK,Crystal Palace,Chelsea,2223,0,4.0
+Jack Wells-Morrison,20,MID,Crystal Palace,Chelsea,2223,0,4.5
+David Ozoh,20,MID,Crystal Palace,Chelsea,2223,0,4.5
+James Milner,20,MID,Liverpool,Brighton,2223,0,4.4
+Jordan Henderson,20,MID,Liverpool,Brighton,2223,0,5.3
+Alex Oxlade-Chamberlain,20,MID,Liverpool,Brighton,2223,9,4.9
+Roberto Firmino,20,FWD,Liverpool,Brighton,2223,0,8.0
+Virgil van Dijk,20,DEF,Liverpool,Brighton,2223,1,6.5
+Mohamed Salah,20,MID,Liverpool,Brighton,2223,2,12.9
+Andrew Robertson,20,DEF,Liverpool,Brighton,2223,1,6.9
+Trent Alexander-Arnold,20,DEF,Liverpool,Brighton,2223,5,7.3
+Ibrahima Konaté,20,DEF,Liverpool,Brighton,2223,1,4.8
+Curtis Jones,20,MID,Liverpool,Brighton,2223,1,4.9
+Luis Díaz,20,MID,Liverpool,Brighton,2223,0,7.8
+Harvey Elliott,20,MID,Liverpool,Brighton,2223,1,4.9
+Nathaniel Phillips,20,DEF,Liverpool,Brighton,2223,0,3.9
+Stefan Bajcetic,20,MID,Liverpool,Brighton,2223,0,4.4
+Bobby Clark,20,MID,Liverpool,Brighton,2223,0,4.5
+Ben Doak,20,MID,Liverpool,Brighton,2223,0,4.5
+Cody Gakpo,20,MID,Liverpool,Brighton,2223,0,8.0
+Thiago Alcántara do Nascimento,20,MID,Liverpool,Brighton,2223,6,5.2
+Alisson Ramses Becker,20,GK,Liverpool,Brighton,2223,2,5.5
+Fabio Henrique Tavares,20,MID,Liverpool,Brighton,2223,2,5.3
+Joseph Gomez,20,DEF,Liverpool,Brighton,2223,0,4.4
+Diogo Teixeira da Silva,20,FWD,Liverpool,Brighton,2223,0,8.8
+Caoimhin Kelleher,20,GK,Liverpool,Brighton,2223,0,4.0
+Konstantinos Tsimikas,20,DEF,Liverpool,Brighton,2223,2,4.5
+Fábio Freitas Gouveia Carvalho,20,MID,Liverpool,Brighton,2223,0,5.3
+Darwin Núñez Ribeiro,20,FWD,Liverpool,Brighton,2223,1,8.9
+Calvin Ramsay,20,DEF,Liverpool,Brighton,2223,0,3.9
+Adrián San Miguel del Castillo,20,GK,Liverpool,Brighton,2223,0,3.9
+Rhys Williams,20,DEF,Liverpool,Brighton,2223,0,4.0
+Sepp van den Berg,20,DEF,Liverpool,Brighton,2223,0,4.0
+Luke Chambers,20,DEF,Liverpool,Brighton,2223,0,4.0
+Harvey Davies,20,GK,Liverpool,Brighton,2223,0,4.0
+Arthur Henrique Ramos de Oliveira Melo,20,MID,Liverpool,Brighton,2223,0,4.8
+Adam Smith,20,DEF,Bournemouth,Brentford,2223,1,4.4
+Junior Stanislas,20,MID,Bournemouth,Brentford,2223,0,4.8
+Ryan Fredericks,20,DEF,Bournemouth,Brentford,2223,0,4.4
+Jamal Lowe,20,MID,Bournemouth,Brentford,2223,0,5.2
+Kieffer Moore,20,FWD,Bournemouth,Brentford,2223,1,5.3
+Emiliano Marcondes,20,MID,Bournemouth,Brentford,2223,0,4.7
+Jack Stacey,20,DEF,Bournemouth,Brentford,2223,1,4.3
+Dominic Solanke,20,FWD,Bournemouth,Brentford,2223,2,5.7
+Lewis Cook,20,MID,Bournemouth,Brentford,2223,2,4.9
+Ben Pearson,20,MID,Bournemouth,Brentford,2223,0,4.4
+Ryan Christie,20,MID,Bournemouth,Brentford,2223,2,5.3
+Philip Billing,20,MID,Bournemouth,Brentford,2223,2,5.2
+Chris Mepham,20,DEF,Bournemouth,Brentford,2223,1,4.4
+Mark Travers,20,GK,Bournemouth,Brentford,2223,2,4.3
+Lloyd Kelly,20,DEF,Bournemouth,Brentford,2223,0,4.3
+Siriki Dembélé,20,MID,Bournemouth,Brentford,2223,1,4.7
+Jaidon Anthony,20,MID,Bournemouth,Brentford,2223,2,5.2
+Jordan Zemura,20,DEF,Bournemouth,Brentford,2223,0,4.4
+Joe Rothwell,20,MID,Bournemouth,Brentford,2223,0,4.9
+Marcus Tavernier,20,MID,Bournemouth,Brentford,2223,0,4.7
+Marcos Senesi,20,DEF,Bournemouth,Brentford,2223,1,4.5
+Owen Bevan,20,DEF,Bournemouth,Brentford,2223,0,4.0
+David Brooks,20,MID,Bournemouth,Brentford,2223,0,5.3
+Will Dennis,20,GK,Bournemouth,Brentford,2223,0,3.9
+James Hill,20,DEF,Bournemouth,Brentford,2223,0,4.4
+Norberto Murara Neto,20,GK,Bournemouth,Brentford,2223,0,4.5
+Christian Saydee,20,FWD,Bournemouth,Brentford,2223,0,4.5
+Cameron Plain,20,GK,Bournemouth,Brentford,2223,0,4.0
+Liam Cooper,20,DEF,Leeds,Aston Villa,2223,2,4.4
+Luke Ayling,20,DEF,Leeds,Aston Villa,2223,2,4.5
+Mateusz Klich,20,MID,Leeds,Aston Villa,2223,1,4.6
+Adam Forshaw,20,MID,Leeds,Aston Villa,2223,0,4.4
+Patrick Bamford,20,FWD,Leeds,Aston Villa,2223,0,7.2
+Diego Llorente,20,DEF,Leeds,Aston Villa,2223,0,4.4
+Robin Koch,20,DEF,Leeds,Aston Villa,2223,2,4.5
+Jack Harrison,20,MID,Leeds,Aston Villa,2223,2,5.8
+Pascal Struijk,20,DEF,Leeds,Aston Villa,2223,2,4.5
+Sam Greenwood,20,FWD,Leeds,Aston Villa,2223,1,4.2
+Illan Meslier,20,GK,Leeds,Aston Villa,2223,1,4.5
+Crysencio Summerville,20,MID,Leeds,Aston Villa,2223,2,4.3
+Joe Gelhardt,20,FWD,Leeds,Aston Villa,2223,1,5.1
+Brenden Aaronson,20,MID,Leeds,Aston Villa,2223,1,5.5
+Darko Gyabi,20,MID,Leeds,Aston Villa,2223,0,4.3
+Tyler Adams,20,MID,Leeds,Aston Villa,2223,2,4.9
+Cody Drameh,20,DEF,Leeds,Aston Villa,2223,0,4.0
+Rodrigo Moreno,20,MID,Leeds,Aston Villa,2223,7,6.3
+Stuart Dallas,20,DEF,Leeds,Aston Villa,2223,0,4.9
+Tyler Roberts,20,MID,Leeds,Aston Villa,2223,0,5.0
+Raphael Dias Belloli,20,MID,Leeds,Aston Villa,2223,0,7.0
+Jamie Shackleton,20,MID,Leeds,Aston Villa,2223,0,4.5
+Kristoffer Klaesson,20,GK,Leeds,Aston Villa,2223,0,3.9
+Junior Firpo Adames,20,DEF,Leeds,Aston Villa,2223,0,4.5
+Lewis Bate,20,MID,Leeds,Aston Villa,2223,0,4.5
+Leo Fuhr Hjelde,20,DEF,Leeds,Aston Villa,2223,0,3.9
+Rasmus Kristensen,20,DEF,Leeds,Aston Villa,2223,0,4.8
+Marc Roca Junqué,20,MID,Leeds,Aston Villa,2223,2,4.8
+Archie Gray,20,MID,Leeds,Aston Villa,2223,0,4.5
+Joel Robles,20,GK,Leeds,Aston Villa,2223,0,4.0
+Wilfried Gnonto,20,FWD,Leeds,Aston Villa,2223,8,5.0
+Mateo Joseph Fernández,20,FWD,Leeds,Aston Villa,2223,0,4.5
+Sonny Perkins,20,FWD,Leeds,Aston Villa,2223,0,4.5
