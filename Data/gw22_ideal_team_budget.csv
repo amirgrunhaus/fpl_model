@@ -1,0 +1,16 @@
+player,team,opponent_team,position,predicted_total_points,cost
+Ederson Santana de Moraes,Manchester City,Tottenham,GK,6,5.4
+Nick Pope,Newcastle Utd,West Ham,GK,6,5.5
+Lisandro Martínez,Manchester Utd,Crystal Palace,DEF,8,4.5
+Pervis Estupiñán,Brighton,Bournemouth,DEF,8,4.5
+John Stones,Manchester City,Tottenham,DEF,8,5.4
+Kieran Trippier,Newcastle Utd,West Ham,DEF,8,6.0
+Dan Burn,Newcastle Utd,West Ham,DEF,6,4.6
+Marcus Rashford,Manchester Utd,Crystal Palace,MID,8,7.1
+Kaoru Mitoma,Brighton,Bournemouth,MID,9,5.1
+Jarrod Bowen,West Ham,Newcastle Utd,MID,16,8.0
+Jaidon Anthony,Bournemouth,Brighton,MID,9,5.2
+Bukayo Saka,Arsenal,Everton,MID,9,8.2
+Erling Haaland,Manchester City,Tottenham,FWD,17,12.2
+Sam Surridge,Nottingham Forest,Leeds,FWD,8,4.7
+Eddie Nketiah,Arsenal,Everton,FWD,13,6.6
